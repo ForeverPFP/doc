@@ -3,6 +3,16 @@ ForverPFP is a project build on some components onchain to connecting web3 peopl
 
 (The name is tmp, would happy community can get a better name for the web3 social platform building onchain for connnecting web3 people)
 
+```mermaid
+graph TD;
+    ForeverPFP-->ENS;
+    ForeverPFP-->PFP_Projects;
+    ForeverPFP-->Primary_PFP;
+    ForeverPFP-->Follow_DATA;    
+    ForeverPFP-->PFP_Verification;
+    ForeverPFP-->Mirror.xyz;
+    ForeverPFP-->DAO_Registration;
+```
 ## [ENS](https://github.com/ensdomains/ens-contracts)
 Naming service for Ethereum
 
